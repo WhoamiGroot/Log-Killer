@@ -10,7 +10,8 @@ git clone https://github.com/WhoamiGroot/Log-Killer
 Steps to run the script:
 
     Save the script to a file, e.g., clear_logs.sh.
-    Make the script executable:
+    
+Make the script executable:
 ```
 chmod +x clear_logs.sh
 ```
